@@ -1,3 +1,5 @@
+### Connect With Me www.linkedin.com/in/donna-cook-32b3ab3b1
+
 # Hi there, I'm Donna Cook 👋
 
 **Payroll & Administrative Professional turned Data Analyst**  
@@ -56,4 +58,5 @@ skills I’m now enhancing with modern data analytics tools.
 **Feel free to explore my repositories** and reach out if you’d like to connect!
 
 📍 Bradenton, FL  
+www.linkedin.com/in/donna-cook-32b3ab3b1
 📧 donna.lynne.cook@outlook.com  
